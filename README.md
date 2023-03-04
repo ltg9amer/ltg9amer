@@ -10,7 +10,7 @@
 
 ---
 
-## Link
+> ## Link
 
 #### Contact
 
@@ -27,7 +27,7 @@
 <a href="https://ltg9amer.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=FFFFFF"/></a>
 <a href="http://ggm.gondr.net/user/profile/229/" target="_blank"><img src="https://img.shields.io/badge/High School Portfolio-001244?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/></a>
 
-## Study
+> ## Study
 
 #### Software
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
 
-## Stat
+> ## Stat
 
 #### GitHub
 
