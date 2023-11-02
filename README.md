@@ -16,9 +16,10 @@
 
 #### Contact
 
-<a href="https://twitter.com/ltg9amer/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/></a>
 <a href="https://www.facebook.com/profile.php?id=1000685411275775/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/ltg9amer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>   
+<a href="https://www.instagram.com/ltg9amer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/ltg9amer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
+<a href="https://twitter.com/ltg9amer/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/></a>   
 <a href="https://steamcommunity.com/profiles/76561199469018779/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF"/> 
 <a href="https://www.discord.com/users/667665725791404043/" target="_blank"><img src="https://img.shields.io/badge/ltg9amer-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/>   
 <a href="mailto:ltg9amer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
