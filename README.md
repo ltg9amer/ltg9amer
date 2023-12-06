@@ -6,13 +6,18 @@
 ---
 
 # Navigation
-* [Link](#link)
-* [Study](#study)
-* [Stat](#stat)
+* [Links](#links)
+* [Skills](#skills)
+* [Statistics](#statistics)
 
 ---
 
-> ## Link
+> ## Links
+
+#### Portfolio
+
+<a href="http://ggm.gondr.net/user/profile/229/" target="_blank"><img src="https://img.shields.io/badge/High School Portfolio-001244?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/></a>
+<a href="https://ltg9amer.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=FFFFFF"/></a>
 
 #### Contact
 
@@ -20,26 +25,21 @@
 <a href="https://www.instagram.com/ltg9amer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/ltg9amer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
 <a href="https://twitter.com/ltg9amer/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/></a>   
-<a href="https://steamcommunity.com/profiles/76561199469018779/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF"/> 
-<a href="https://www.discord.com/users/667665725791404043/" target="_blank"><img src="https://img.shields.io/badge/ltg9amer-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/>   
-<a href="mailto:ltg9amer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-<a href="mailto:ltg9amer@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFFF"/>
+<a href="mailto:ltg9amer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="mailto:ltg9amer@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER Mail-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFFF"/></a>   
+<a href="https://www.discord.com/users/667665725791404043/" target="_blank"><img src="https://img.shields.io/badge/ltg9amer-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
+<a href="https://steamcommunity.com/profiles/76561199469018779/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF"/></a>
 
-#### Portfolio
+> ## Skills
 
-<a href="https://ltg9amer.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=FFFFFF"/></a>
-<a href="http://ggm.gondr.net/user/profile/229/" target="_blank"><img src="https://img.shields.io/badge/High School Portfolio-001244?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/></a>
+#### Tools
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
 
-> ## Study
-
-#### Software
-<a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
-
-#### Language
+#### Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
 
-> ## Stat
+> ## Statistics
 
 #### GitHub
 
