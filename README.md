@@ -16,7 +16,7 @@
 
 #### Portfolio
 
-<a href="http://ggm.gondr.net/user/profile/229/" target="_blank"><img src="https://img.shields.io/badge/High School Portfolio-001244?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/></a>
+<a href="http://ggm.gondr.net/user/profile/194/" target="_blank"><img src="https://img.shields.io/badge/High School Portfolio-001244?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/></a>
 <a href="https://ltg9amer.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=FFFFFF"/></a>
 
 #### Contact
