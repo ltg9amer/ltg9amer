@@ -33,11 +33,21 @@
 > ## Skills
 
 #### Tools
+### $\bf{\color{#0000FF}上}$
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
 
+### $\bf{\color{#FFA500}中}$
+
+### $\bf{\color{#FF0000}下}$
+
 #### Languages
+### $\bf{\color{#0000FF}上}$
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
+
+### $\bf{\color{#FFA500}中}$
+
+### $\bf{\color{#FF0000}下}$
 
 > ## Statistics
 
