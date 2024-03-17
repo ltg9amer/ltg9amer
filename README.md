@@ -33,21 +33,31 @@
 > ## Skills
 
 #### Tools
-### $\bf{\color{skyblue}上}$
+> ### $\bf{\color{skyblue}上}$
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/GitHub%20Desktop-9F7BE1?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 
-### $\bf{\color{orange}中}$
+> ### $\bf{\color{orange}中}$
+<img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Windows%20API-0078D4?style=for-the-badge&logo=windows&logoColor=FFFFFF"/></a>
 
-### $\bf{\color{red}下}$
+> ### $\bf{\color{red}下}$
+<img src="https://img.shields.io/badge/DirectX-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF"/></a>
 
 #### Languages
-### $\bf{\color{skyblue}上}$
+> ### $\bf{\color{skyblue}上}$
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
 
-### $\bf{\color{orange}中}$
+> ### $\bf{\color{orange}中}$
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
 
-### $\bf{\color{red}下}$
+> ### $\bf{\color{red}下}$
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/VBA-512BD4?style=for-the-badge&logo=visualbasic&logoColor=FFFFFF"/></a>
 
 > ## Statistics
 
