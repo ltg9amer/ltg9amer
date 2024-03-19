@@ -34,11 +34,16 @@
 
 #### Tools
 > ### $\bf{\color{skyblue}上}$
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/GitHub%20Desktop-9F7BE1?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
 
 > ### $\bf{\color{orange}中}$
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Windows%20API-0078D4?style=for-the-badge&logo=windows&logoColor=FFFFFF"/></a>
 
 > ### $\bf{\color{red}下}$
