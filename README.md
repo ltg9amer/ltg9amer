@@ -62,7 +62,6 @@
 
 > ### $\bf{\color{red}下}$
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/VBA-512BD4?style=for-the-badge&logo=visualbasic&logoColor=FFFFFF"/></a>
 
 > ## Statistics
 
