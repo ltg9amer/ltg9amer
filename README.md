@@ -7,7 +7,8 @@
 
 > ## Links
 
-https://ltg9amer.notion.site/e430a7a3cb9948e9afac2fbfa584242f
+![Static Badge](https://img.shields.io/badge/R%C3%A9sum%C3%A9-000000?style=for-the-badge&logo=notion&link=https%3A%2F%2Fltg9amer.notion.site%2Fe430a7a3cb9948e9afac2fbfa584242f)
+![Static Badge](https://img.shields.io/badge/High_School-191970?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&link=https%3A%2F%2Fggm.gondr.net%2Fuser%2Fprofile%2F194)
 
 > ## Statistics
 
